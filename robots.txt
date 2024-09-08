@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://repanersi.github.io/sitemap.html.gz
+Sitemap: https://repanersi.github.io/app/sitemap.html.gz
+Sitemap: https://repanersi.github.io/assets/sitemap.html.gz
+Sitemap: https://repanersi.github.io/css/sitemap.html.gz
+Sitemap: https://repanersi.github.io/includes/sitemap.html.gz
+Sitemap: https://repanersi.github.io/item/sitemap.html.gz
+Sitemap: https://repanersi.github.io/src/sitemap.html.gz
